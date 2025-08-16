@@ -5,9 +5,9 @@ Lumaa is a **online clothing retail brand** specializing in customized bridal ou
 
 The project was managed under the **PMBOK® framework** with integration of **Agile (Scrum)** for iterative website development and **Waterfall** for sequential phases like branding, procurement, and logistics setup.  
 
-- **Project Duration:** [6 Months]  
-- **Launch Date:** [18-JUN-2025]  
-- **Website:** [www.lumaatunnoor.com]  
+- **Project Duration:** 6 Months
+- **Launch Date:** 18-JUN-2025 
+- **Website:** www.lumaatunnoor.com
 
 ---
 
@@ -140,10 +140,10 @@ The project was managed under the **PMBOK® framework** with integration of **Ag
 
 ## Business Impact  
 - Successfully launched Lumaa as an **unique clothing brand**.  
-- Delivered a scalable eCommerce platform capable of handling [500 orders/day].  
-- Reduced fulfillment lead time to [20 days].  
+- Delivered a scalable eCommerce platform capable of handling large orders /day.  
+- Reduced fulfillment lead time.
 - Built strong brand presence with SEO and marketing alignment.  
-- Positioned Lumaa for future [global] expansion.  
+- Positioned Lumaa for future global expansion.  
 
 ---
 
@@ -152,5 +152,5 @@ The project was managed under the **PMBOK® framework** with integration of **Ag
 
 ---
 
-**Website:** [www.lumaatunnoor.com]  
-**Author:** [Faraz Ahmad]  
+**Website:** www.lumaatunnoor.com  
+**Author:** Faraz Ahmad
